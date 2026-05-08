@@ -1,3 +1,4 @@
+<img src="banner.png" width="100%">
 # Hi there 👋 I'm Avinash Sahani
 
 🎓 Class 12 Passout | Future BTech CSE Student from India 🇮🇳  
